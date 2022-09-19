@@ -1,0 +1,10 @@
+Cython @ file:///buildstream/freedesktop-sdk/components/cython.bst
+Mako @ file:///buildstream/freedesktop-sdk/components/python3-mako.bst
+Markdown @ file:///buildstream/freedesktop-sdk/components/python3-markdown.bst
+MarkupSafe==2.1.1
+meson @ file:///buildstream/freedesktop-sdk/components/meson.bst
+numpy==1.23.3
+opencv-python==4.6.0.66
+Pygments==2.12.0
+six==1.16.0
+tflite-runtime==2.10.0
