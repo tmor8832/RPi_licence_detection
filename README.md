@@ -1,8 +1,10 @@
 # RPi_Obj_Detection
-Trained object detection model which can be easily deployed on RPi. This model is trained on a camoflagued duck.
+Trained object detection model which can be easily deployed on RPi. This model is trained on UK license plates.
 This code will record clips where the object is detected and save them to your current directory with timestamp of when clip was captured.
 
-![image](https://user-images.githubusercontent.com/64171887/191004641-bfc8b554-cc01-4afd-a472-0c49728b5c25.png)
+![image](https://user-images.githubusercontent.com/64171887/191074347-a84de26b-cca7-4b08-942a-c478709a7703.png)
+
+![image](https://user-images.githubusercontent.com/64171887/191074567-902b0fba-c82a-4606-83ed-7652ca68480a.png)
 
 # Tensorflow Object Detection Walkthrough with Raspberry Pi
 <p>The following repository will allow you to leverage Tensorflow Object Detection models that have been converted to TFLite on a Raspberry Pi.
@@ -31,4 +33,5 @@ sudo apt-get install python3-tflite-runtime OR if on normal linux machine python
 <pre>python3 detect.py</pre>
 <br/>
 
-![image](https://user-images.githubusercontent.com/64171887/191005645-9781860e-91b2-41ba-b45d-2c7033e59f5f.png)
+![image](https://user-images.githubusercontent.com/64171887/191074174-b1a718ed-d225-4b7d-a304-12b69b682726.png)
+
