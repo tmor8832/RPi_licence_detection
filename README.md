@@ -1,4 +1,5 @@
-# RPi_License_Detection
+# RPi License Detection
+# Youtube example of code https://www.youtube.com/watch?v=5giXtW3xdn8
 Trained object detection model which can be easily deployed on RPi. This model is trained on UK license plates.
 This code will record clips where the object is detected and save them to your current directory with timestamp of when clip was captured.
 
