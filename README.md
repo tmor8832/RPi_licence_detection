@@ -1,4 +1,4 @@
-# RPi_Obj_Detection
+# RPi_License_Detection
 Trained object detection model which can be easily deployed on RPi. This model is trained on UK license plates.
 This code will record clips where the object is detected and save them to your current directory with timestamp of when clip was captured.
 
